@@ -7,7 +7,10 @@
 • Follow For More Custom Modules <br/>
 
 # UPT Test
-![illustration](https://i.imgur.com/e4lvW03.png)
+![sample](https://i.imgur.com/e4lvW03.png)
 
 ## Hentai Test 
-![illustration](https://i.imgur.com/gGDIovX.png)
+![sample](https://i.imgur.com/gGDIovX.png)
+
+## Chik Test
+![sample](https://i.imgur.com/kgwBOvQ.png)
