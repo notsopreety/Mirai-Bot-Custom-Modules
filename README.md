@@ -16,4 +16,4 @@
 ![sample](https://i.imgur.com/kgwBOvQ.png)
 
 ## >Chat GPT Test<
-![sample](https://i.imgur.com/TfRPBeb.png)
+![sample](https://i.imgur.com/wG607nA.png)
