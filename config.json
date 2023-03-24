@@ -1,0 +1,135 @@
+{
+    "language": "en",
+    "keyActive": "",
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "autoClean": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "", //bot id email
+    "PASSWORD": "", //password here
+    "OTPKEY": "",
+    "BOTNAME": "Anna", //your bot name
+    "PREFIX": "/", //bot's prefix
+    "ADMINBOT": [
+        "", //your admin id uid
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+    ],
+    "OWNER": "Samir Badaila", //your details
+    "AGE": "16",
+    "GENDER": "Male",
+    "FACEBOOK": "https://www.facebook.com/notsopreety",
+    "AutoPost": "enable",
+    "AutoPostText": "Hello World This Is Autopost. Hope You All Are Fine. And Thanks For Staying With Me",
+    "AutoPostPerHour": "1",
+    "AutoPostGreet": "enable",
+    "AcceptFriendRequest": "enable",
+    "AutoPendingGroupChat": "enable",
+    "AutoBioStatus": "enable",
+    "AutoBioStatusSetPerHour": "1",
+    "BioStatus": "Hola! This Is Anna From Samir's Computer System",
+    "AutoLeave": "enable",
+    "DATABASE": {
+        "sqlite": {
+            "storage": "data.sqlite"
+        }
+    },
+    "APPSTATEPATH": "fbstate.json",
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": false,
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Safari/537.36"
+    },
+    "version": "1.2.14",
+    "help": {
+        "autoUnsend": true,
+        "delayUnsend": 60
+    },
+    "adminUpdate": {
+        "autoUnsend": true,
+        "sendNoti": true,
+        "timeToUnsend": 10
+    },
+    "log": {
+        "enable": true
+    },
+    "rankup": {
+        "autoUnsend": "",
+        "unsendMessageAfter": 5
+    },
+    "sim": {
+        "APIKEY": ""
+    },
+    "sing": {
+        "YOUTUBE_API": "AIzaSyCSr3zPtIrHk3eQzYSMOmuL_dDZLMsmoyw",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    },
+    "video": {
+        "YOUTUBE_API": "AIzaSyCSr3zPtIrHk3eQzYSMOmuL_dDZLMsmoyw"
+    },
+    "work": {
+        "cooldownTime": 1200000
+    },
+    "youtube-video": {
+        "YOUTUBE_API": "AIzaSyCSr3zPtIrHk3eQzYSMOmuL_dDZLMsmoyw"
+    },
+    "weather": {
+        "OPEN_WEATHER": "081c82065cfee62cb7988ddf90914bdd"
+    },
+    "linkword": {
+        "APIKEY": ""
+    },
+    "ytb-video": {
+        "YOUTUBE_API": "AIzaSyCSr3zPtIrHk3eQzYSMOmuL_dDZLMsmoyw"
+    },
+    "math": {
+        "WOLFRAM": "T8J8YV-H265UQ762K"
+    },
+    "luật bot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "lbot": {
+        "autoUnsend": true,
+        "delayUnsend": 30
+    },
+    "work-beta": {
+        "cooldownTime": 1200000
+    },
+    "job-beta": {
+        "cooldownTime": 5000
+    },
+    "job": {
+        "cooldownTime": 5000
+    },
+    "slap": {
+        "APIKEY": ""
+    },
+    "banner2": {
+        "APIKEY": "ntkhang"
+    },
+    "tiktok": {
+        "key": "ClkIv52I"
+    },
+    "god": {
+        "enable": true
+    },
+    "help2": {
+        "autoUnsend": "",
+        "delayUnsend": 20
+    },
+    "sing2": {
+        "YOUTUBE_API": "AIzaSyCOTZTEzTydcXuetconkxZUjEXKiPMDpG0",
+        "SOUNDCLOUD_API": "M4TSyS6eV0AcMynXkA3qQASGcOFQTWub"
+    }
+}
