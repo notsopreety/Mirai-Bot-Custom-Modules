@@ -1,10 +1,10 @@
 const fbname = "Clarence DK";
-const githubname = "KuDos";
+const githubname = "KuDos"; 
 module.exports.config = {
 	name:"upt",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Mirai-Team",
+	credits: "Mirai-Team", //fixed by samir
 	description: "Random ảnh theo api - uptime",
 	commandCategory: "Nhóm",
 	cooldowns: 3,
@@ -34,7 +34,7 @@ const time = process.uptime(),
   const timeNow = moment.tz("Asia/Kathmandu").format("DD/MM/YYYY || HH:mm:ss");
    if (!fs.existsSync(__dirname + `/tad/Grandstander-Bold.ttf`)) {
     let getfont2 = (await axios.get(`https://github.com/hanakuUwU/font/raw/main/Grandstander-Bold.ttf`, { responseType: "arraybuffer" })).data;
-    fs.writeFileSync(__dirname + `/tad/Grandstander-Bold.ttf`, Buffer.from(getfont2, "utf-8"));
+    fs.writeFileSync(__dirname + `/tad/Grandstander-Bold.ttf`, Buffer.from(getfont2, "utf-8")); //if it won't work then contact me in facebook i will help you to fix out this issue
   };
    const { loadImage, createCanvas, registerFont } = require("canvas");
   
